@@ -1,1 +1,0 @@
-<?php return array('site_enter'=>'http://www.skyxmedia.cn','gotosite'=>'http://www.skyxmedia.cn');
