@@ -1,8 +1,0 @@
-{
-  "navigationBarTitleText": "积分订单列表页",
-  "component": true,
-  "usingComponents": {
-    "copyright": "/components/copyright/copyright",
-    "myfooter": "/components/myfooter/myfooter"
-  }
-}

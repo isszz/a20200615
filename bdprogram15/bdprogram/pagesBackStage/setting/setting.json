@@ -1,8 +1,0 @@
-{
-  "navigationBarTitleText": "设置",
-  "navigationBarBackgroundColor": "#ffffff",
-  "component": true,
-  "usingComponents": {
-    "bsfooter": "/components/bsfooter/bsfooter"
-  }
-}

@@ -1,8 +1,0 @@
-{
-  "navigationBarTitleText": "商品订单",
-  "enablePullDownRefresh": false,
-  "component": true,
-  "usingComponents": {
-    "datetime": "/components/datetime/datetime"
-  }
-}

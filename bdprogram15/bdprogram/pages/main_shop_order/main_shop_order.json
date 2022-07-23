@@ -1,7 +1,0 @@
-{
-  "navigationBarTitleText": "我的订单",
-  "component": true,
-  "usingComponents": {
-    "myfooter": "/components/myfooter/myfooter"
-  }
-}
